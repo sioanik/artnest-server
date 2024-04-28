@@ -70,6 +70,12 @@ async function run() {
         res.send(result)
     })
 
+    app.put('/updateCrafts/:id', async (req, res) =>{
+        // console.log(req.params.id);
+        const query = {_id: new ObjectId(req.params.id)}
+        
+    })
+
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
