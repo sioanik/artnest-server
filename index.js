@@ -73,6 +73,19 @@ async function run() {
     app.put('/updateCrafts/:id', async (req, res) =>{
         // console.log(req.params.id);
         const query = {_id: new ObjectId(req.params.id)}
+        const data = {
+            $set:{
+                item_name:req.body.item_name,
+                customization:req.body.customization,
+                description:req.body.description,
+                image:req.body.image,
+                price:req.body.price,
+                processing_time:req.body.processing_time,
+                rating:req.body.rating,
+                stockStatus:req.body.stockStatus,
+                subcategory_Name:req.body.subcategory_Name,
+            }
+        }
         
     })
 
