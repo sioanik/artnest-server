@@ -87,6 +87,7 @@ async function run() {
             }
         }
         const result=craftsCollection.updateOne(query, data)
+        console.log(result);
     })
 
 
