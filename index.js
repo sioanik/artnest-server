@@ -86,7 +86,7 @@ async function run() {
                 subcategory_Name:req.body.subcategory_Name,
             }
         }
-        const result=craftsCollection.updateOne(query, data)
+        const result= await craftsCollection.updateOne(query, data)
         console.log(result);
         res.send(result)
     })
