@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/W61V29j/Homeart1.jpg",
+      "item_name": "Mountain View Canvas",
+      "subcategory_Name": "Landscape Painting",
+      "short_description": "Capture the majestic beauty of mountains in this stunning canvas painting.",
+      "price": 99.99,
+      "rating": 4.5,
+      "customization": "Yes",
+      "processing_time": "3-5 business days",
+      "stockStatus": "In stock"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/D90c5JW/Homeart2.jpg",
+      "item_name": "Pencil Sketch Portrait",
+      "subcategory_Name": "Portrait Drawing",
+      "short_description": "Capture your loved ones in exquisite detail with this timeless pencil sketch portrait.",
+      "price": 49.99,
+      "rating": 4.8,
+      "customization": "Yes",
+      "processing_time": "2-3 business days",
+      "stockStatus": "In stock"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/rttzZZq/Homeart3.png",
+      "item_name": "Floral Watercolor Art",
+      "subcategory_Name": "Watercolour Painting",
+      "short_description": "Add a touch of elegance to your space with this vibrant floral watercolor art piece.",
+      "price": 39.99,
+      "rating": 4.6,
+      "customization": "No",
+      "processing_time": "1-2 business days",
+      "stockStatus": "In stock"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/4SxkSKD/Homeart4.webp",
+      "item_name": "Realistic Oil Portrait",
+      "subcategory_Name": "Oil Painting",
+      "short_description": "Commission a lifelike portrait that captures the essence of your loved ones in rich oil colors.",
+      "price": 149.99,
+      "rating": 4.9,
+      "customization": "Yes",
+      "processing_time": "7-10 business days",
+      "stockStatus": "Made to Order"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/FJjbggG/Homeart5.webp",
+      "item_name": "Figure Charcoal Sketch",
+      "subcategory_Name": "Charcoal Sketching",
+      "short_description": "Adorn your walls with the raw beauty of figure sketches, rendered in expressive charcoal strokes.",
+      "price": 69.99,
+      "rating": 4.4,
+      "customization": "No",
+      "processing_time": "4-6 business days",
+      "stockStatus": "In stock"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/5K397Rm/Homeart6.webp",
+      "item_name": "Comic Strip Drawing",
+      "subcategory_Name": "Cartoon Drawing",
+      "short_description": "Bring your stories to life with vibrant characters and captivating narratives in this comic strip drawing.",
+      "price": 29.99,
+      "rating": 4.7,
+      "customization": "Yes",
+      "processing_time": "2-4 business days",
+      "stockStatus": "In stock"
+    }
+  ]
