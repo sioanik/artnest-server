@@ -35,6 +35,7 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     // Connect the client to the server	(optional starting in v4.7)
+        // comment this line -------
     // await client.connect();
 
     const craftsCollection = client.db('craftsDB').collection('crafts')
@@ -103,6 +104,7 @@ async function run() {
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
   } finally {
     // Ensures that the client will close when you finish/error
+    // comment this line -------
     // await client.close();
   }
 }
