@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Emily Smith",
+        "image": "https://i.ibb.co/GvYVnmL/Emily-Smith.jpg",
+        "age": 35,
+        "country": "United States",
+        "language": "English",
+        "painting_count": 50,
+        "about": "Emily Smith is a talented artist known for her vibrant and expressive paintings. With over 50 stunning artworks to her name, she captures the beauty of nature and human emotion in her unique style."
+    },
+    {
+        "id": 2,
+        "name": "Juan Rodriguez",
+        "image": "https://i.ibb.co/5B5zFNQ/Juan-Alonso.jpg",
+        "age": 42,
+        "country": "Spain",
+        "language": "Spanish",
+        "painting_count": 65,
+        "about": "Juan Rodriguez is an acclaimed painter from Spain, renowned for his captivating portraits and landscapes. With a portfolio of 65 exquisite paintings, he brings life and depth to his subjects with remarkable skill."
+    },
+    {
+        "id": 3,
+        "name": "Sophie Li",
+        "image": "https://i.ibb.co/bgJJ9cY/Sophie-Li.png",
+        "age": 28,
+        "country": "China",
+        "language": "Mandarin",
+        "painting_count": 40,
+        "about": "Sophie Li is a rising star in the art world, known for her delicate watercolor paintings. Hailing from China, she infuses her artworks with cultural richness and emotional depth, with 40 enchanting paintings in her portfolio."
+    },
+    {
+        "id": 4,
+        "name": "Ahmed Khan",
+        "image": "https://i.ibb.co/0QM9M3m/Ahmed-Khan.jpg",
+        "age": 38,
+        "country": "India",
+        "language": "Hindi",
+        "painting_count": 55,
+        "about": "Ahmed Khan is a prolific artist known for his diverse range of artworks, from traditional Indian motifs to contemporary abstract pieces. With 55 impressive paintings to his credit, he continues to inspire art enthusiasts worldwide."
+    }
+]
